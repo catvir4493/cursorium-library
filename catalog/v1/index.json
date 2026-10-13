@@ -1,6 +1,6 @@
 {
   "SchemaVersion": 1,
-  "CatalogVersion": "1.0.1",
+  "CatalogVersion": "1.0.2",
   "Resources": [
     {
       "Id": "cute-bunny-cute-kawaii",
@@ -56,9 +56,10 @@
       "AnimatedCursorCount": 7,
       "RequiredEngine": "cursorium-1",
       "MinimumClientVersion": "1.3.0",
-      "LastUpdated": "2019-12-03",
+      "LastUpdated": null,
       "Featured": true,
-      "AddedAt": "2026-10-13T21:35:48Z"
+      "AddedAt": "2026-10-13T21:35:48Z",
+      "PublishedAt": "2019-12-03"
     },
     {
       "Id": "cute-cool-cat",
@@ -117,9 +118,10 @@
       "AnimatedCursorCount": 15,
       "RequiredEngine": "cursorium-1",
       "MinimumClientVersion": "1.3.0",
-      "LastUpdated": "2020-11-30",
+      "LastUpdated": null,
       "Featured": false,
-      "AddedAt": "2026-10-13T21:35:48Z"
+      "AddedAt": "2026-10-13T21:35:48Z",
+      "PublishedAt": "2020-11-30"
     },
     {
       "Id": "cool-cat-superstar",
@@ -178,9 +180,10 @@
       "AnimatedCursorCount": 15,
       "RequiredEngine": "cursorium-1",
       "MinimumClientVersion": "1.3.0",
-      "LastUpdated": "2020-11-30",
+      "LastUpdated": null,
       "Featured": true,
-      "AddedAt": "2026-10-13T21:35:48Z"
+      "AddedAt": "2026-10-13T21:35:48Z",
+      "PublishedAt": "2020-11-30"
     },
     {
       "Id": "cute-kawaii-cat-curs0rs",
@@ -239,9 +242,10 @@
       "AnimatedCursorCount": 14,
       "RequiredEngine": "cursorium-1",
       "MinimumClientVersion": "1.3.0",
-      "LastUpdated": "2022-08-14",
+      "LastUpdated": null,
       "Featured": false,
-      "AddedAt": "2026-10-13T21:35:48Z"
+      "AddedAt": "2026-10-13T21:35:48Z",
+      "PublishedAt": "2022-08-14"
     },
     {
       "Id": "cute-kawaii-pink-heart",
@@ -300,9 +304,10 @@
       "AnimatedCursorCount": 10,
       "RequiredEngine": "cursorium-1",
       "MinimumClientVersion": "1.3.0",
-      "LastUpdated": "2026-07-25",
+      "LastUpdated": null,
       "Featured": false,
-      "AddedAt": "2026-10-13T21:35:48Z"
+      "AddedAt": "2026-10-13T21:35:48Z",
+      "PublishedAt": "2026-07-25"
     },
     {
       "Id": "cute-pastel",
@@ -358,9 +363,10 @@
       "AnimatedCursorCount": 1,
       "RequiredEngine": "cursorium-1",
       "MinimumClientVersion": "1.3.0",
-      "LastUpdated": "2018-10-19",
+      "LastUpdated": null,
       "Featured": false,
-      "AddedAt": "2026-10-13T21:35:48Z"
+      "AddedAt": "2026-10-13T21:35:48Z",
+      "PublishedAt": "2018-10-19"
     },
     {
       "Id": "neon-blue",
@@ -388,7 +394,8 @@
       "MinimumClientVersion": "1.3.0",
       "LastUpdated": null,
       "Featured": true,
-      "AddedAt": "2026-10-13T21:35:48Z"
+      "AddedAt": "2026-10-13T21:35:48Z",
+      "PublishedAt": null
     },
     {
       "Id": "sakura-pink",
@@ -416,7 +423,8 @@
       "MinimumClientVersion": "1.3.0",
       "LastUpdated": null,
       "Featured": false,
-      "AddedAt": "2026-10-13T21:35:48Z"
+      "AddedAt": "2026-10-13T21:35:48Z",
+      "PublishedAt": null
     },
     {
       "Id": "aurora-flow",
@@ -444,7 +452,8 @@
       "MinimumClientVersion": "1.3.0",
       "LastUpdated": null,
       "Featured": false,
-      "AddedAt": "2026-10-13T21:35:48Z"
+      "AddedAt": "2026-10-13T21:35:48Z",
+      "PublishedAt": null
     },
     {
       "Id": "golden-spark",
@@ -472,7 +481,8 @@
       "MinimumClientVersion": "1.3.0",
       "LastUpdated": null,
       "Featured": false,
-      "AddedAt": "2026-10-13T21:35:48Z"
+      "AddedAt": "2026-10-13T21:35:48Z",
+      "PublishedAt": null
     }
   ]
 }
