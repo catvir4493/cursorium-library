@@ -1,0 +1,10 @@
+{
+  "SchemaVersion": 1,
+  "Description": "See README and the client\u0027s RemoteCatalog.Validate for strict runtime constraints.",
+  "ResourceTypes": [
+    "cursor",
+    "trail"
+  ],
+  "Hash": "SHA256 of ZIP bytes",
+  "Signature": "index.json.sig: detached RSA-PSS/SHA256 over exact index.json bytes; pinned 3072-bit SPKI public key"
+}
