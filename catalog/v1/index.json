@@ -1,6 +1,6 @@
 {
   "SchemaVersion": 1,
-  "CatalogVersion": "1.0.0",
+  "CatalogVersion": "1.0.1",
   "Resources": [
     {
       "Id": "cute-bunny-cute-kawaii",
@@ -57,7 +57,8 @@
       "RequiredEngine": "cursorium-1",
       "MinimumClientVersion": "1.3.0",
       "LastUpdated": "2019-12-03",
-      "Featured": true
+      "Featured": true,
+      "AddedAt": "2026-10-13T21:35:48Z"
     },
     {
       "Id": "cute-cool-cat",
@@ -117,15 +118,16 @@
       "RequiredEngine": "cursorium-1",
       "MinimumClientVersion": "1.3.0",
       "LastUpdated": "2020-11-30",
-      "Featured": false
+      "Featured": false,
+      "AddedAt": "2026-10-13T21:35:48Z"
     },
     {
       "Id": "cool-cat-superstar",
       "Type": "cursor",
       "Version": "1.0.0",
-      "Name": "Cool Cat \u2014 Superstar",
+      "Name": "Cool Cat — Superstar",
       "Author": "Bobcat",
-      "Description": "Bobcat\u0027s original Superstar bonus animation as Normal, with all 15 original roles. CURSORIUM mapping variant; no artwork modified.",
+      "Description": "Bobcat's original Superstar bonus animation as Normal, with all 15 original roles. CURSORIUM mapping variant; no artwork modified.",
       "Tags": [
         "Cute",
         "Pixel"
@@ -177,7 +179,8 @@
       "RequiredEngine": "cursorium-1",
       "MinimumClientVersion": "1.3.0",
       "LastUpdated": "2020-11-30",
-      "Featured": true
+      "Featured": true,
+      "AddedAt": "2026-10-13T21:35:48Z"
     },
     {
       "Id": "cute-kawaii-cat-curs0rs",
@@ -185,7 +188,7 @@
       "Version": "1.0.0",
       "Name": "Kawaii Cat",
       "Author": "MUFFET!! (archive: Sun_l1ght)",
-      "Description": "Animated little cats, with the author\u0027s original sequence and hotspots.",
+      "Description": "Animated little cats, with the author's original sequence and hotspots.",
       "Tags": [
         "Cute",
         "Pixel"
@@ -237,7 +240,8 @@
       "RequiredEngine": "cursorium-1",
       "MinimumClientVersion": "1.3.0",
       "LastUpdated": "2022-08-14",
-      "Featured": false
+      "Featured": false,
+      "AddedAt": "2026-10-13T21:35:48Z"
     },
     {
       "Id": "cute-kawaii-pink-heart",
@@ -297,14 +301,15 @@
       "RequiredEngine": "cursorium-1",
       "MinimumClientVersion": "1.3.0",
       "LastUpdated": "2026-07-25",
-      "Featured": false
+      "Featured": false,
+      "AddedAt": "2026-10-13T21:35:48Z"
     },
     {
       "Id": "cute-pastel",
       "Type": "cursor",
       "Version": "1.0.0",
       "Name": "Pastel",
-      "Author": "saraantie \u00B7 shapes: quackyduck",
+      "Author": "saraantie · shapes: quackyduck",
       "Description": "Quiet pastel pointers. Three missing roles explicitly inherit FROST.",
       "Tags": [
         "Cute",
@@ -354,7 +359,8 @@
       "RequiredEngine": "cursorium-1",
       "MinimumClientVersion": "1.3.0",
       "LastUpdated": "2018-10-19",
-      "Featured": false
+      "Featured": false,
+      "AddedAt": "2026-10-13T21:35:48Z"
     },
     {
       "Id": "neon-blue",
@@ -381,7 +387,8 @@
       "RequiredEngine": "cursorium-1",
       "MinimumClientVersion": "1.3.0",
       "LastUpdated": null,
-      "Featured": true
+      "Featured": true,
+      "AddedAt": "2026-10-13T21:35:48Z"
     },
     {
       "Id": "sakura-pink",
@@ -408,7 +415,8 @@
       "RequiredEngine": "cursorium-1",
       "MinimumClientVersion": "1.3.0",
       "LastUpdated": null,
-      "Featured": false
+      "Featured": false,
+      "AddedAt": "2026-10-13T21:35:48Z"
     },
     {
       "Id": "aurora-flow",
@@ -435,7 +443,8 @@
       "RequiredEngine": "cursorium-1",
       "MinimumClientVersion": "1.3.0",
       "LastUpdated": null,
-      "Featured": false
+      "Featured": false,
+      "AddedAt": "2026-10-13T21:35:48Z"
     },
     {
       "Id": "golden-spark",
@@ -462,7 +471,8 @@
       "RequiredEngine": "cursorium-1",
       "MinimumClientVersion": "1.3.0",
       "LastUpdated": null,
-      "Featured": false
+      "Featured": false,
+      "AddedAt": "2026-10-13T21:35:48Z"
     }
   ]
 }
