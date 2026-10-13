@@ -1,6 +1,6 @@
 {
   "SchemaVersion": 1,
-  "CatalogVersion": "1.0.3",
+  "CatalogVersion": "1.0.4",
   "Resources": [
     {
       "Id": "cute-bunny-cute-kawaii",
@@ -13,9 +13,9 @@
         "Cute",
         "Pixel"
       ],
-      "CoverUrl": "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1/cute-bunny-cute-kawaii.png",
+      "CoverUrl": "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1-r2/cute-bunny-cute-kawaii.png",
       "PreviewMedia": [
-        "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1/cute-bunny-cute-kawaii.png"
+        "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1-r2/cute-bunny-cute-kawaii.png"
       ],
       "PackageUrl": "https://github.com/catvir4493/cursorium-library/releases/download/library-v1.0.0/cute-bunny-cute-kawaii.zip",
       "PackageSize": 29749,
@@ -72,9 +72,9 @@
         "Cute",
         "Pixel"
       ],
-      "CoverUrl": "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1/cute-cool-cat.png",
+      "CoverUrl": "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1-r2/cute-cool-cat.png",
       "PreviewMedia": [
-        "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1/cute-cool-cat.png"
+        "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1-r2/cute-cool-cat.png"
       ],
       "PackageUrl": "https://github.com/catvir4493/cursorium-library/releases/download/library-v1.0.0/cute-cool-cat.zip",
       "PackageSize": 38185,
@@ -134,9 +134,9 @@
         "Cute",
         "Pixel"
       ],
-      "CoverUrl": "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1/cool-cat-superstar.png",
+      "CoverUrl": "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1-r2/cool-cat-superstar.png",
       "PreviewMedia": [
-        "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1/cool-cat-superstar.png"
+        "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1-r2/cool-cat-superstar.png"
       ],
       "PackageUrl": "https://github.com/catvir4493/cursorium-library/releases/download/library-v1.0.0/cool-cat-superstar.zip",
       "PackageSize": 39254,
@@ -196,9 +196,9 @@
         "Cute",
         "Pixel"
       ],
-      "CoverUrl": "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1/cute-kawaii-cat-curs0rs.png",
+      "CoverUrl": "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1-r2/cute-kawaii-cat-curs0rs.png",
       "PreviewMedia": [
-        "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1/cute-kawaii-cat-curs0rs.png"
+        "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1-r2/cute-kawaii-cat-curs0rs.png"
       ],
       "PackageUrl": "https://github.com/catvir4493/cursorium-library/releases/download/library-v1.0.0/cute-kawaii-cat-curs0rs.zip",
       "PackageSize": 11643,
@@ -258,9 +258,9 @@
         "Cute",
         "Pixel"
       ],
-      "CoverUrl": "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1/cute-kawaii-pink-heart.png",
+      "CoverUrl": "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1-r2/cute-kawaii-pink-heart.png",
       "PreviewMedia": [
-        "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1/cute-kawaii-pink-heart.png"
+        "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1-r2/cute-kawaii-pink-heart.png"
       ],
       "PackageUrl": "https://github.com/catvir4493/cursorium-library/releases/download/library-v1.0.0/cute-kawaii-pink-heart.zip",
       "PackageSize": 9016,
@@ -320,9 +320,9 @@
         "Cute",
         "Pixel"
       ],
-      "CoverUrl": "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1/cute-pastel.png",
+      "CoverUrl": "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1-r2/cute-pastel.png",
       "PreviewMedia": [
-        "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1/cute-pastel.png"
+        "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1-r2/cute-pastel.png"
       ],
       "PackageUrl": "https://github.com/catvir4493/cursorium-library/releases/download/library-v1.0.0/cute-pastel.zip",
       "PackageSize": 232902,
@@ -378,9 +378,9 @@
       "Tags": [
         "Minimal"
       ],
-      "CoverUrl": "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1/neon-blue.png",
+      "CoverUrl": "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1-r2/neon-blue.png",
       "PreviewMedia": [
-        "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1/neon-blue.png"
+        "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1-r2/neon-blue.png"
       ],
       "PackageUrl": "https://github.com/catvir4493/cursorium-library/releases/download/library-v1.0.0/neon-blue.zip",
       "PackageSize": 1143,
@@ -407,9 +407,9 @@
       "Tags": [
         "Minimal"
       ],
-      "CoverUrl": "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1/sakura-pink.png",
+      "CoverUrl": "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1-r2/sakura-pink.png",
       "PreviewMedia": [
-        "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1/sakura-pink.png"
+        "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1-r2/sakura-pink.png"
       ],
       "PackageUrl": "https://github.com/catvir4493/cursorium-library/releases/download/library-v1.0.0/sakura-pink.zip",
       "PackageSize": 1133,
@@ -436,9 +436,9 @@
       "Tags": [
         "Minimal"
       ],
-      "CoverUrl": "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1/aurora-flow.png",
+      "CoverUrl": "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1-r2/aurora-flow.png",
       "PreviewMedia": [
-        "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1/aurora-flow.png"
+        "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1-r2/aurora-flow.png"
       ],
       "PackageUrl": "https://github.com/catvir4493/cursorium-library/releases/download/library-v1.0.0/aurora-flow.zip",
       "PackageSize": 1149,
@@ -465,9 +465,9 @@
       "Tags": [
         "Minimal"
       ],
-      "CoverUrl": "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1/golden-spark.png",
+      "CoverUrl": "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1-r2/golden-spark.png",
       "PreviewMedia": [
-        "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1/golden-spark.png"
+        "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1-r2/golden-spark.png"
       ],
       "PackageUrl": "https://github.com/catvir4493/cursorium-library/releases/download/library-v1.0.0/golden-spark.zip",
       "PackageSize": 1149,
