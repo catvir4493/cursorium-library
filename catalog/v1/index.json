@@ -1,6 +1,6 @@
 {
   "SchemaVersion": 1,
-  "CatalogVersion": "1.1.0",
+  "CatalogVersion": "1.1.1",
   "Resources": [
     {
       "Id": "cute-bunny-cute-kawaii",
@@ -376,7 +376,8 @@
       "Author": "CURSORIUM",
       "Description": "Continuous ice-blue light with a compact, readable trail.",
       "Tags": [
-        "Minimal"
+        "Neon",
+        "Motion"
       ],
       "CoverUrl": "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1-r2/neon-blue.png",
       "PreviewMedia": [
@@ -405,7 +406,9 @@
       "Author": "CURSORIUM",
       "Description": "Soft pink neon with a restrained glow.",
       "Tags": [
-        "Minimal"
+        "Cute",
+        "Neon",
+        "Motion"
       ],
       "CoverUrl": "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1-r2/sakura-pink.png",
       "PreviewMedia": [
@@ -434,7 +437,9 @@
       "Author": "CURSORIUM",
       "Description": "A pale violet comet using the original trusted Comet renderer.",
       "Tags": [
-        "Minimal"
+        "Neon",
+        "Motion",
+        "Comet"
       ],
       "CoverUrl": "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1-r2/aurora-flow.png",
       "PreviewMedia": [
@@ -463,7 +468,9 @@
       "Author": "CURSORIUM",
       "Description": "Fine golden particles dispersing through the trusted Stardust renderer.",
       "Tags": [
-        "Minimal"
+        "Gold",
+        "Motion",
+        "Stardust"
       ],
       "CoverUrl": "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/v1.3.1-r2/golden-spark.png",
       "PreviewMedia": [
@@ -1052,8 +1059,9 @@
       "Author": "CURSORIUM",
       "Description": "Soft short pink comet with a lingering ten-particle bloom.",
       "Tags": [
-        "Neon",
-        "Motion"
+        "Cute",
+        "Motion",
+        "Comet"
       ],
       "CoverUrl": "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/library-v1.1.0/sakura-blossom.png",
       "PreviewMedia": [
@@ -1083,7 +1091,8 @@
       "Description": "Long, crisp ice-blue comet with a quick fade.",
       "Tags": [
         "Neon",
-        "Motion"
+        "Motion",
+        "Comet"
       ],
       "CoverUrl": "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/library-v1.1.0/ice-crystal.png",
       "PreviewMedia": [
@@ -1112,8 +1121,9 @@
       "Author": "CURSORIUM",
       "Description": "A compact lavender dust cloud with a slow dissolve.",
       "Tags": [
-        "Neon",
-        "Motion"
+        "Cute",
+        "Motion",
+        "Stardust"
       ],
       "CoverUrl": "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/library-v1.1.0/lavender-dream.png",
       "PreviewMedia": [
@@ -1172,8 +1182,9 @@
       "Author": "CURSORIUM",
       "Description": "A broad warm orange comet with eighteen sparks.",
       "Tags": [
-        "Neon",
-        "Motion"
+        "Warm",
+        "Motion",
+        "Comet"
       ],
       "CoverUrl": "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/library-v1.1.0/sunset-glow.png",
       "PreviewMedia": [
@@ -1262,8 +1273,9 @@
       "Author": "CURSORIUM",
       "Description": "A long pink star cloud at the bounded particle limit.",
       "Tags": [
-        "Neon",
-        "Motion"
+        "Cute",
+        "Motion",
+        "Stardust"
       ],
       "CoverUrl": "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/library-v1.1.0/stardust-pink.png",
       "PreviewMedia": [
@@ -1292,8 +1304,9 @@
       "Author": "CURSORIUM",
       "Description": "A sparse, low-opacity teal mist with a slow eight-particle fade.",
       "Tags": [
-        "Neon",
-        "Motion"
+        "Soft",
+        "Motion",
+        "Stardust"
       ],
       "CoverUrl": "https://catvir4493.github.io/cursorium-library/catalog/v1/previews/library-v1.1.0/ocean-mist.png",
       "PreviewMedia": [

@@ -17,3 +17,6 @@ The application repository contains scripts/publish-library.ps1 and the --isolat
 
 See [review ledger](reviews/library-1.1.0/SOURCES.md), machine-readable original hashes and role mappings in that directory. All new cursors have 15 native roles with zero inherited roles. The 30+ target was not met: uncertain rights, weak contrast, wrong hotspots and excessive role gaps were not admitted to inflate the total.
 
+
+Catalog 1.1.1 refines only tags and collection membership/collage covers. Minimal Workspace now includes three outlined cursor sets and two Minimal-renderer presets. Package versions, hashes, Release URLs and all 29 owned identities are unchanged. Four-renderer Motion Essentials has a separate real composite cover. This metadata-only update needs no resource ZIP or desktop release.
+
