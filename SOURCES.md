@@ -241,3 +241,8 @@
 - Bunny 缺少 DiagonalNWSE、DiagonalNESW、Link；Pastel 缺少 Working、Move、Alternate。内置 Cute Collection 明确沿用 FROST；通用导入由用户选择回退并确认。
 - Pink Heart 有 Location；Cool Cat 有 Person、Location 和两个 bonus。15 个标准角色之外的原始资源保留在 Extras 并校验，没有伪称其为标准角色。
 - 卡片的 Animated 表示真实来源含 ANI；Pastel 显示 Static / fallback ANI，避免把 FROST 的 Working 动画误称为作者提供的动画。
+
+## Library 1.1.0 additions
+
+[Full author/license audit and package hashes](reviews/library-1.1.0/SOURCES.md). Original author ZIPs remain unmodified; all nine new themes have 15 native roles. Ten original numeric presets are MIT licensed. Withheld candidates are metadata only; their artwork is not redistributed. Existing ten release packages remain unchanged.
+

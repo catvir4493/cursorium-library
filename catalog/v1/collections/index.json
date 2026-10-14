@@ -1,0 +1,120 @@
+{
+  "SchemaVersion": 1,
+  "Version": "1.1.0",
+  "MinimumCatalogVersion": "1.1.0",
+  "Collections": [
+    {
+      "Id": "cute-cozy",
+      "Name": "Cute \u0026 Cozy",
+      "Description": "Original animals, hearts and gentle colors.",
+      "CoverUrl": "https://catvir4493.github.io/cursorium-library/catalog/v1/collections/1.1.0/cute-cozy.png",
+      "ResourceIds": [
+        "cute-bunny-cute-kawaii",
+        "cute-cool-cat",
+        "cool-cat-superstar",
+        "cute-kawaii-cat-curs0rs",
+        "cute-kawaii-pink-heart",
+        "cute-pastel",
+        "amber-rose",
+        "brown-cow",
+        "little-chicken",
+        "lovely-sunshine"
+      ]
+    },
+    {
+      "Id": "minimal-workspace",
+      "Name": "Minimal Workspace",
+      "Description": "Readable simple geometry and quiet motion.",
+      "CoverUrl": "https://catvir4493.github.io/cursorium-library/catalog/v1/collections/1.1.0/minimal-workspace.png",
+      "ResourceIds": [
+        "neon-blue",
+        "sakura-pink",
+        "aurora-flow",
+        "golden-spark",
+        "basic-vlazteron",
+        "dot-minimal",
+        "simple-dot-star",
+        "moonlight",
+        "amber-whisper"
+      ]
+    },
+    {
+      "Id": "pixel-nostalgia",
+      "Name": "Pixel Nostalgia",
+      "Description": "Actual pixel artwork, preserved without smoothing.",
+      "CoverUrl": "https://catvir4493.github.io/cursorium-library/catalog/v1/collections/1.1.0/pixel-nostalgia.png",
+      "ResourceIds": [
+        "cute-bunny-cute-kawaii",
+        "cute-cool-cat",
+        "cool-cat-superstar",
+        "cute-kawaii-cat-curs0rs",
+        "cute-kawaii-pink-heart",
+        "cute-pastel",
+        "brown-cow",
+        "lovely-sunshine"
+      ]
+    },
+    {
+      "Id": "neon-cyber",
+      "Name": "Neon \u0026 Cyber",
+      "Description": "Bright outlines and trusted light renderers.",
+      "CoverUrl": "https://catvir4493.github.io/cursorium-library/catalog/v1/collections/1.1.0/neon-cyber.png",
+      "ResourceIds": [
+        "amber-rose",
+        "sakura-blossom",
+        "ice-crystal",
+        "lavender-dream",
+        "emerald-stream",
+        "sunset-glow",
+        "cyber-pulse",
+        "stardust-pink",
+        "ocean-mist"
+      ]
+    },
+    {
+      "Id": "animated-favorites",
+      "Name": "Animated Favorites",
+      "Description": "Functional animations with original ANI timing.",
+      "CoverUrl": "https://catvir4493.github.io/cursorium-library/catalog/v1/collections/1.1.0/animated-favorites.png",
+      "ResourceIds": [
+        "cute-bunny-cute-kawaii",
+        "cute-cool-cat",
+        "cool-cat-superstar",
+        "cute-kawaii-cat-curs0rs",
+        "cute-kawaii-pink-heart",
+        "cute-pastel",
+        "basic-vlazteron",
+        "dot-minimal",
+        "golden-mhmd",
+        "amber-rose",
+        "brown-cow",
+        "little-chicken",
+        "discrete-vlasta",
+        "lovely-sunshine",
+        "simple-dot-star"
+      ]
+    },
+    {
+      "Id": "motion-essentials",
+      "Name": "Motion Essentials",
+      "Description": "Data-only presets for the four trusted renderers.",
+      "CoverUrl": "https://catvir4493.github.io/cursorium-library/catalog/v1/collections/1.1.0/motion-essentials.png",
+      "ResourceIds": [
+        "neon-blue",
+        "sakura-pink",
+        "aurora-flow",
+        "golden-spark",
+        "sakura-blossom",
+        "ice-crystal",
+        "lavender-dream",
+        "emerald-stream",
+        "sunset-glow",
+        "cyber-pulse",
+        "moonlight",
+        "stardust-pink",
+        "ocean-mist",
+        "amber-whisper"
+      ]
+    }
+  ]
+}

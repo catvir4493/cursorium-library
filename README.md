@@ -11,3 +11,9 @@ The exact UTF-8 index.json bytes have a detached 3072-bit RSA-PSS/SHA256 signatu
 To add a resource: verify redistribution permission, validate every CUR/ANI and all 15 roles, retain provenance/NOTICE, build a data-only ZIP, create a new immutable library Release, calculate size and SHA256, add metadata and an actual resource-derived PNG cover, increase CatalogVersion, validate the runtime schema, sign the exact index bytes with the protected key, and commit/push the catalog. Never change an existing release asset, stable ID, or tag. New resources need no desktop release when compatible with cursorium-1.
 
 The application repository contains scripts/publish-library.ps1 and the --isolated-test --export-library publishing tool. Do not put packages, local staging, private keys, user settings or registry backups in this repository.
+## Library 1.1.0 curation
+
+29 actual resources: the original ten, nine reviewed full-role cursor themes and ten new original numeric motion presets. Six separately signed collections are available at catalog/v1/collections/index.json. The existing catalog v1 resource schema is unchanged and remains readable by CURSORIUM 1.3 clients. New desktop versions are unnecessary for compatible resource additions.
+
+See [review ledger](reviews/library-1.1.0/SOURCES.md), machine-readable original hashes and role mappings in that directory. All new cursors have 15 native roles with zero inherited roles. The 30+ target was not met: uncertain rights, weak contrast, wrong hotspots and excessive role gaps were not admitted to inflate the total.
+
