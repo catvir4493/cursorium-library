@@ -20,3 +20,7 @@ See [review ledger](reviews/library-1.1.0/SOURCES.md), machine-readable original
 
 Catalog 1.1.1 refines only tags and collection membership/collage covers. Minimal Workspace now includes three outlined cursor sets and two Minimal-renderer presets. Package versions, hashes, Release URLs and all 29 owned identities are unchanged. Four-renderer Motion Essentials has a separate real composite cover. This metadata-only update needs no resource ZIP or desktop release.
 
+
+## Commercial rights extension (Preview)
+
+Catalog v2's separately signed rights.json adds a commercial review layer without changing Catalog v1 or resource ZIPs. Fourteen original MIT motion presets qualify for the content whitelist; fifteen third-party cursor packages remain Needs Review for Steam. Historical Public Domain/CC BY declarations remain recorded; this is not an independent ownership certification. See [v2 protocol](catalog/v2/README.md) and [commercial matrix](reviews/commercial-v2/MATRIX.md). No Steam SDK/AppID or commercial platform release is claimed.

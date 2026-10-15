@@ -246,3 +246,7 @@
 
 [Full author/license audit and package hashes](reviews/library-1.1.0/SOURCES.md). Original author ZIPs remain unmodified; all nine new themes have 15 native roles. Ten original numeric presets are MIT licensed. Withheld candidates are metadata only; their artwork is not redistributed. Existing ten release packages remain unchanged.
 
+
+## 2026-10-15 commercial provenance review
+
+Existing redistribution records above are preserved. New commercial clearance is a separate signed layer; fifteen third-party cursor packages are Needs Review and excluded from the Steam whitelist. Fourteen distinct source pages were fetched again and matched their declared PD/CC BY labels; that does not independently establish chain of title. Current original MIT presets and six built-in identities retain their MIT notices. [Per-resource commercial audit](reviews/commercial-v2/MATRIX.md). No historical ZIP, v1 ID, catalog or collection was rewritten.
